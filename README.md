@@ -12,7 +12,6 @@
 
 Took me about 20 hours to complete.
 
-Kieran97.github.io
-
+https://kieran97.github.io/KieranHarrisBrown_16432474/index.html
 
 Submitted 13/01/2017.
