@@ -1,6 +1,6 @@
-##Kieran Harris-Brown 16432474
+##Kieran Harris-Brown 16432474 
 
-##Assignment	1:	Web	Development
+##Assignment	1:	Web	Development(README.md)
 
 25th december- Started the project. started the index page and choose to use roboto font.
 26th December-started my CV page. I used the same layout from my index to design this page so the css file used is basically the same. 
