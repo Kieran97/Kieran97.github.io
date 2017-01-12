@@ -1,0 +1,63 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-size: 62.5%;
+    background: white;
+}
+.icon{
+  display: block;
+  width: 30%;
+  height: 30%;
+  align-self: center;;
+
+}
+
+.my-image {
+    display: block;
+    width: 20%;
+    height: 20%;
+    align-self: center;
+}
+
+
+.all-content {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.cv-title {
+  background: lightblue;
+  font-family: 'Roboto';
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 3.7em;
+
+}
+.cv-footer {
+  background: lightblue;
+  font-family: 'Roboto';
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2.7em;
+
+}
+
+.cv-sub-title {
+  padding: 10px 1px;
+  font-family: 'Roboto';
+  font-size: 2em;
+text-align: center;
+
+}
+
+.cv-text {
+  background: lightblue;
+  font-family: 'Roboto';
+  text-align: center;
+  font-size: 1.8em;
+}
