@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+##Kieran Harris-Brown 16432474
 
-You can use the [editor on GitHub](https://github.com/Kieran97/Kieran97.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##Assignment	1:	Web	Development
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+25th december- Started the project. started the index page and choose to use roboto font.
+26th December-started my CV page. I used the same layout from my index to design this page so the css file used is basically the same. 
+29th December Started my Bio page. I decided to make my website have the same layout so that it is consistant throughout. 
+5th January - Started my contact page. I had to do some research to find out how to make a static form, and to find out what it was. I then began making my own soon as I understood the basic static forms.
+7th January- I added a picture of me which will be on all of my pages like a logo, I also added a home button which sends the user back to the index page.
+8th January- added the finishing touches to all my pages and made it so that all pages can be opened from the index page.
+12th January- I now believe that my website is ready to be submitted.
 
-### Markdown
+Took me about 20 hours to complete.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Kieran97.github.io
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kieran97/Kieran97.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Submitted 13/01/2017.
